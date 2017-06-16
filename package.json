@@ -1,0 +1,19 @@
+ {
+  "name": "cornfact",
+  "version": "1.0.0",
+  "description": "A library to look at corn",
+  "main": "corn.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "corn",
+    "stalk",
+    "ear",
+    "kernels"
+  ],
+  "author": "choffman",
+  "license": "ISC"
+}
