@@ -1,4 +1,4 @@
- {
+{
   "name": "cornfact",
   "version": "1.0.0",
   "description": "A library to look at corn",
@@ -15,5 +15,13 @@
     "kernels"
   ],
   "author": "choffman",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornfact/cornfact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cornfact/cornfact/issues"
+  },
+  "homepage": "https://github.com/cornfact/cornfact#readme"
 }
